@@ -2,7 +2,12 @@
 using namespace std;
 int main()
 {
-    char arr[] = {'a','b','c','d'};
 
-    cout<<arr;
+    string s = "Parth Goel";
+
+    cout<<s[1];
+
+
+
+
 }
